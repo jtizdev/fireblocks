@@ -478,13 +478,13 @@ If you prefer to read it here, please continue.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/jtizdev/fireblocks-exercise-.git
+    git clone https://github.com/jtizdev/fireblocks.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd fireblocks-excercise-
+    cd fireblocks
     ```
 
 4. export environments variables:
@@ -507,7 +507,7 @@ To run the tests, follow these steps:
 2. Navigate to the `tests` directory:
 
     ```bash
-    cd fireblocks-exercise-/tests
+    cd fireblocks/tests
     ```
 
 3. Run pytest:
