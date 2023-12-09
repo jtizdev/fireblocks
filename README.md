@@ -487,14 +487,9 @@ If you prefer to read it here, please continue.
     cd fireblocks-excercise-
     ```
 
-3. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 4. export environments variables:
    ```bash
-    export FIREBLOCKS_URL=https://fb-sandbox-dot-shell-dev-env.uc.r.appspot.com export FIREBLOCKS_TOKEN=youremaili@gmail.com
+    export BASE_URL=https://fb-sandbox-dot-shell-dev-env.uc.r.appspot.com export TOKEN=youremaili@gmail.com
 
     ```
 
