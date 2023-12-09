@@ -507,7 +507,7 @@ To run the tests, follow these steps:
 2. Navigate to the `tests` directory:
 
     ```bash
-    cd fireblocks-exercise/tests
+    cd fireblocks-exercise-/tests
     ```
 
 3. Run pytest:
