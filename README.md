@@ -513,16 +513,11 @@ To run the tests, follow these steps:
 3. Run pytest:
 
     ```bash
-    pytest
+    python -m pytest
     ```
 
 This command will execute all the tests in the specified directory and provide you with the results.
 
-4. Optinal, see the results as HTML:
-
-    ```bash
-    pytest --html=report.html <test_cases>.py
-    ```
 
 ## Authors
 
