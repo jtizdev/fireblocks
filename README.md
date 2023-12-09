@@ -207,14 +207,6 @@ If you prefer to read it here, please continue.
     Name: "John Doe"
     ```
 
-11. **Get Users with Multiple Names**
-    - **Test Case:** Retrieve users with multiple names.
-    - **Assertion:** Expecting a 2xx status code and a response message included with the user data.
-    - **Test Data:**
-    ```json
-    Name: "John, Doe"
-    ```
-
 ---
 
 ## GET Single User Endpoint
